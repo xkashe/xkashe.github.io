@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c43cd70d.chunk.js",
+    "main.js.map": "/static/js/main.c43cd70d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2c2ca4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2c2ca4f.js.map",
+    "static/js/2.e17b7cff.chunk.js": "/static/js/2.e17b7cff.chunk.js",
+    "static/js/2.e17b7cff.chunk.js.map": "/static/js/2.e17b7cff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a0398a78154d041902dc51b2fa482aca.js": "/precache-manifest.a0398a78154d041902dc51b2fa482aca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.e17b7cff.chunk.js.LICENSE.txt": "/static/js/2.e17b7cff.chunk.js.LICENSE.txt",
+    "static/media/ae.png": "/static/media/ae.ee8cfa85.png",
+    "static/media/ai.png": "/static/media/ai.a83ff256.png",
+    "static/media/au.png": "/static/media/au.c274df6b.png",
+    "static/media/dark.jpg": "/static/media/dark.6f3c00c5.jpg",
+    "static/media/joker.jpg": "/static/media/joker.1c1aede4.jpg",
+    "static/media/joker2.jpg": "/static/media/joker2.1d20dba9.jpg",
+    "static/media/logo.png": "/static/media/logo.e341cd9c.png",
+    "static/media/lr.png": "/static/media/lr.217c74b5.png",
+    "static/media/portal.jpg": "/static/media/portal.47d8b553.jpg",
+    "static/media/pr.png": "/static/media/pr.f279f842.png",
+    "static/media/profil.jpg": "/static/media/profil.10cd6e16.jpg",
+    "static/media/ps.png": "/static/media/ps.10172ffd.png",
+    "static/media/rzepiara.jpg": "/static/media/rzepiara.1128155a.jpg",
+    "static/media/st.jpg": "/static/media/st.4e372856.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2c2ca4f.js",
+    "static/js/2.e17b7cff.chunk.js",
+    "static/js/main.c43cd70d.chunk.js"
+  ]
+}
