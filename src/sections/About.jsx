@@ -63,12 +63,14 @@ const SkillsContainer = styled.div`
   align-items: center;
   justify-content: center;
   display: flex;
+  flex-wrap: wrap;
+  padding: 0.5em;
 `;
 
 const Skill = styled.img`
   max-height: 4em;
   max-width: 4em;
-  margin: 1em 0.5em;
+  margin: 0.5em;
 `;
 
 const SkillTitle = styled.span`
