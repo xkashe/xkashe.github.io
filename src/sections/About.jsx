@@ -46,6 +46,7 @@ const CardContent = styled.div`
   flex-direction: column;
   font-size: 0.75em;
   line-height: 1.75em;
+  color: #5F5E61;
 `;
 
 const CardText = styled.span`
