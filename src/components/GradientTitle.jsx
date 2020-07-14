@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const GradientTitle = styled.h4`
   display: inline-block;
   text-transform: uppercase;
-  color: #333333;
+  color: #fff;
   padding: 0.5em 1em;
   border-radius: 0.5em;
   background-color: #0001;
