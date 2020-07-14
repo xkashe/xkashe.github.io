@@ -69,7 +69,7 @@ const Video = ({ ytLink }) => (
 
 const VIDEOS = [
   'pqlvXl42Hog',
-  '8TDlN0ZB6_I',
+  'pWck9174UqE',
   'cYJUPdjhAdE',
   'NG8sAZnIJvo',
   'BINDDd5UJMk',
@@ -77,7 +77,7 @@ const VIDEOS = [
   'HsbJJAIYglA',
   'uQrM58B671E',
   'p1ZUMPllya4',
-  'pWck9174UqE',
+  '8TDlN0ZB6_I',
   'rqaxqnE9KGI',
   'rzfM06oyB1U',
 ];
