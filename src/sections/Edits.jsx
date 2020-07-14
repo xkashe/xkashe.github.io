@@ -11,8 +11,8 @@ import portal from 'res/edit/portal.jpg';
 import joker from 'res/edit/joker.jpg';
 import dark from 'res/edit/dark1.jpg';
 import joker2 from 'res/edit/joker2.jpg';
-import jesien from 'res/edit/jesien.jpg';
 import rzepiara from 'res/edit/rzepiara.jpg';
+import jesien from 'res/edit/jesien.jpg';
 
 const spin = keyframes`
   from {
