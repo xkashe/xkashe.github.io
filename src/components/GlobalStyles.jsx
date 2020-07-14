@@ -10,7 +10,7 @@ export default createGlobalStyle`
     margin: 0;
     text-align: center;
     font-size: 20px;
-    color: #5f5e61;
+    color: #f1f1f1;
     background-color: #333333;
     font-weight: 500;
   }
