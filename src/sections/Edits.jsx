@@ -9,8 +9,10 @@ import Modal from 'components/Modal';
 import st from 'res/edit/st.jpg';
 import portal from 'res/edit/portal.jpg';
 import joker from 'res/edit/joker.jpg';
-import dark from 'res/edit/dark.jpg';
+import dark1 from 'res/edit/dark1.jpg';
 import joker2 from 'res/edit/joker2.jpg';
+import jesien from 'res/edit/jesien.jpg';
+import minecraft1 from 'res/edit/minecraft1.jpg';
 import rzepiara from 'res/edit/rzepiara.jpg';
 
 const spin = keyframes`
