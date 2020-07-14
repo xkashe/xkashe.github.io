@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.59b10a3b.chunk.js",
-    "main.js.map": "/static/js/main.59b10a3b.chunk.js.map",
+    "main.js": "/static/js/main.c24f672e.chunk.js",
+    "main.js.map": "/static/js/main.c24f672e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f2c2ca4f.js",
     "runtime-main.js.map": "/static/js/runtime-main.f2c2ca4f.js.map",
-    "static/js/2.e17b7cff.chunk.js": "/static/js/2.e17b7cff.chunk.js",
-    "static/js/2.e17b7cff.chunk.js.map": "/static/js/2.e17b7cff.chunk.js.map",
+    "static/js/2.c6f58df3.chunk.js": "/static/js/2.c6f58df3.chunk.js",
+    "static/js/2.c6f58df3.chunk.js.map": "/static/js/2.c6f58df3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c0dd5060e7f61fddcebc02d8e2b42a29.js": "/precache-manifest.c0dd5060e7f61fddcebc02d8e2b42a29.js",
+    "precache-manifest.c57df1e7648a3ea32605ac2e7bfdedfe.js": "/precache-manifest.c57df1e7648a3ea32605ac2e7bfdedfe.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.e17b7cff.chunk.js.LICENSE.txt": "/static/js/2.e17b7cff.chunk.js.LICENSE.txt",
+    "static/js/2.c6f58df3.chunk.js.LICENSE.txt": "/static/js/2.c6f58df3.chunk.js.LICENSE.txt",
     "static/media/ae.png": "/static/media/ae.ee8cfa85.png",
     "static/media/ai.png": "/static/media/ai.a83ff256.png",
     "static/media/au.png": "/static/media/au.c274df6b.png",
     "static/media/dark1.jpg": "/static/media/dark1.7cf2df22.jpg",
+    "static/media/jesien.jpg": "/static/media/jesien.4e35628d.jpg",
     "static/media/joker.jpg": "/static/media/joker.1c1aede4.jpg",
     "static/media/joker2.jpg": "/static/media/joker2.1d20dba9.jpg",
     "static/media/logo.png": "/static/media/logo.e341cd9c.png",
     "static/media/lr.png": "/static/media/lr.217c74b5.png",
+    "static/media/minecraft1.jpg": "/static/media/minecraft1.2b7332f7.jpg",
     "static/media/portal.jpg": "/static/media/portal.47d8b553.jpg",
     "static/media/pr.png": "/static/media/pr.f279f842.png",
     "static/media/profil.jpg": "/static/media/profil.10cd6e16.jpg",
@@ -27,7 +29,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f2c2ca4f.js",
-    "static/js/2.e17b7cff.chunk.js",
-    "static/js/main.59b10a3b.chunk.js"
+    "static/js/2.c6f58df3.chunk.js",
+    "static/js/main.c24f672e.chunk.js"
   ]
 }
