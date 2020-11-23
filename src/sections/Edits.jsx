@@ -14,6 +14,10 @@ import joker2 from 'res/edit/joker2.jpg';
 import rzepiara from 'res/edit/rzepiara.jpg';
 import jesien from 'res/edit/jesien.jpg';
 import minecraft from 'res/edit/minecraft1.jpg';
+import duch1 from 'res/edit/duch1.jpg';
+import duch2 from 'res/edit/duchy 2.jpg';
+import kosmo from 'res/edit/kosmo1.jpg';
+
 
 const spin = keyframes`
   from {
@@ -78,7 +82,7 @@ const LazyImage = ({ src, alt, onClick }) => (
   </ProgressiveImage>
 );
 
-const IMAGES = [st, portal, dark, joker, joker2, rzepiara,jesien,minecraft];
+const IMAGES = [st, portal, dark, kosmo, joker, joker2, duch1, duch2, rzepiara,jesien,minecraft];
 
 const Edits = () => {
   const [isOpen, setOpen] = useState(false);
