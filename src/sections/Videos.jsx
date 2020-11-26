@@ -80,7 +80,7 @@ const VIDEOS = [
   '6dBd-ZqT2H0',
   'HsbJJAIYglA',
   'uQrM58B671E',
-  'zjJJkKP21bg';
+  'zjJJkKP21bg',
   'p1ZUMPllya4',
   '8TDlN0ZB6_I',
   'rqaxqnE9KGI',
