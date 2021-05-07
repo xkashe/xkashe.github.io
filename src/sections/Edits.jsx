@@ -75,19 +75,21 @@ const ImageContainer = styled.div`
 
 const LazyImage = ({ src, alt, onClick }) => (
   <ProgressiveImage src={src}>
-    {(src, loading) => (
-      <ImageContainer loading={loading} onClick={onClick}>
+    {(src) => (
+      <ImageContainer onClick={onClick}>
         <img src={src} alt={alt} />
       </ImageContainer>
     )}
   </ProgressiveImage>
 );
 
-const IMAGES = [st, portal, dark, kosmo, joker, joker2, duch1, duch2, rzepiara,jesien,szach, minecraft];
+const IMAGES = [st, portal, dark, kosmo, joker, joker2, duch1, duch2, rzepiara, jesien, szach, minecraft];
+const mod = (n, m) => ((n % m) + m) % m;
 
 const Edits = () => {
   const [isOpen, setOpen] = useState(false);
   const [currentModal, setCurrentModal] = useState(0);
+  const navigateModal = (steps) => setCurrentModal(mod(currentModal + steps, IMAGES.length))
   const handleImageClick = (index) => {
     setCurrentModal(index);
     setOpen(true);
@@ -104,7 +106,9 @@ const Edits = () => {
         ))}
       </ItemGrid>
       <Modal
-        src={IMAGES[currentModal]}
+        navigate={navigateModal}
+        items={IMAGES}
+        active={currentModal}
         isOpen={isOpen}
         onClose={() => setOpen(false)}
       />
