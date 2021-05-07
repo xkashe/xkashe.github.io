@@ -5,7 +5,7 @@ import ItemGrid from 'components/ItemGrid';
 import {Video} from "components/Video";
 
 const VIDEOS = [
-  'CNM8WDaJGGS',
+  'SsFS1msCGOc',
   '9K2JwBQSm14',
  
 ];
