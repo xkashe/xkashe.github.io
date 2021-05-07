@@ -54,7 +54,7 @@ const CardText = styled.span`
 `;
 
 const AboutContent = styled(FwSection)`
-  background-image: linear-gradient(to top, #a0e5ff 0%, transparent 75%);
+  background-image: linear-gradient(to top, #15282f 0%, transparent 75%);
 `;
 
 const SkillsContainer = styled.div`

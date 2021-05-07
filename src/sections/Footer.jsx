@@ -7,6 +7,6 @@ const StyledFooter = styled.footer`
   padding: 1rem;
 `;
 
-const Footer = () => <StyledFooter>Łukasz Jurczyński&copy; 2020</StyledFooter>;
+const Footer = () => <StyledFooter>Łukasz Jurczyński&copy; 2021</StyledFooter>;
 
 export default Footer;
