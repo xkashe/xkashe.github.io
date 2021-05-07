@@ -36,7 +36,7 @@ const ItemGrid = ({ children }) => {
         {children && children.slice(0, 4)}
         {isExpanded && children && children.slice(4)}
       </ItemGridContainer>
-      {!isExpanded && <ShowMoreButton onClick={() => setExpanded(true)} />}
+      {children.length > 4 && !isExpanded && <ShowMoreButton onClick={() => setExpanded(true)} />}
     </>
   );
 };

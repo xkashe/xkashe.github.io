@@ -7,7 +7,6 @@ import {Video} from "components/Video";
 const VIDEOS = [
   'SsFS1msCGOc',
   '9K2JwBQSm14',
- 
 ];
 
 const VFX = () => (
