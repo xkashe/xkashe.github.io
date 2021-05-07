@@ -64,7 +64,7 @@ const Video = ({ ytLink }) => (
   </VideoContainer>
 );
 
-const VFX = [
+const Video = [
   'twyKbPS72IQ',
   '9K2JwBQSm14',
   'pWck9174UqE',
@@ -85,7 +85,7 @@ const VFX = [
   'rzfM06oyB1U',
 ];
 
-const VFX = () => (
+const Video = () => (
   <Section>
     <GradientTitle start="#209cff" stop="#68e0cf">
       VFX
