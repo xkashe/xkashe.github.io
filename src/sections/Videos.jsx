@@ -7,7 +7,7 @@ import {Video} from "components/Video";
 const VIDEOS = [
   'twyKbPS72IQ',
   '5yDtRsnWtgA',
-  'mp7ftGRfxqY',
+  'PXp9c5uDwqY',
   'FtKRKuzIkis',
   'pWck9174UqE',
   'cYJUPdjhAdE',
