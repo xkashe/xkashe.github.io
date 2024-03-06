@@ -92,10 +92,11 @@ const About = () => (
         <CardContent>
           <CardText>
             Nazywam się <b>Łukasz Jurczyński</b>.
-            <br />
+            
             Jestem absolwentem Montażu Filmowego w Warszawskiej Szkole Filmowej (licencjat 2022).
             Atualnie studiuję Projektowanie komunikacji wizualnej w mediach interaktywnych.
             Specjalizuję się w montowaniu filmów przeznaczonych na Youtube oraz obróbką zdjęć.
+            
           </CardText>
 
           <SkillTitle>Regularnie pracuję z:</SkillTitle>
