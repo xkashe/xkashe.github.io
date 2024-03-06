@@ -18,7 +18,6 @@ import piwnica from 'res/edit/edit piwnica.jpg';
 import duch2 from 'res/edit/duchy 2.jpg';
 import szach from 'res/edit/edit szach.jpg';
 import kosmo from 'res/edit/kosmo1.jpg';
-import inpost from 'res/edit/edit inpost';
 
 
 const spin = keyframes`
