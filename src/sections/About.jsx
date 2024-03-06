@@ -93,7 +93,7 @@ const About = () => (
           <CardText>
             Nazywam się <b>Łukasz Jurczyński</b>.
             <br />
-            Studiuję montaż filmowy w Warszawskiej Szkole Filmowej. Specjalizuję
+            Już nie Studiuję montaż filmowy w Warszawskiej Szkole Filmowej. Specjalizuję
             się w montowaniu filmów przeznaczonych na Youtube oraz obróbką
             zdjęć.
           </CardText>
