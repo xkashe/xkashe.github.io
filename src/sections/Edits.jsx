@@ -83,7 +83,7 @@ const LazyImage = ({ src, alt, onClick }) => (
   </ProgressiveImage>
 );
 
-const IMAGES = [st, spider, dark, motyl, kosmo, joker2, mando, duch2, wonka, jesien, inpost, piwnica];
+const IMAGES = [st, spider, wonka, dark, motyl, kosmo, joker2, mando, duch2, jesien, inpost, piwnica];
 const mod = (n, m) => ((n % m) + m) % m;
 
 const Edits = () => {
