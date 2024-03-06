@@ -16,6 +16,8 @@ import jesien from 'res/edit/jesien.jpg';
 import wonka from 'res/edit/edit wonka.jpg';
 import piwnica from 'res/edit/edit piwnica.jpg';
 import duch2 from 'res/edit/duchy 2.jpg';
+import inpost from 'res/edit/edit inpost.jpg';
+import kosmo from 'res/edit/kosmo1.jpg';
 
 
 const spin = keyframes`
@@ -81,7 +83,7 @@ const LazyImage = ({ src, alt, onClick }) => (
   </ProgressiveImage>
 );
 
-const IMAGES = [st, portal, dark, kosmo, joker, joker2, duch1, duch2, rzepiara, jesien, szach, minecraft];
+const IMAGES = [st, spider, dark, motyl, kosmo, joker2, mando, duch2, wonka, jesien, inpost, piwnica];
 const mod = (n, m) => ((n % m) + m) % m;
 
 const Edits = () => {
