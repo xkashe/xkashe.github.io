@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.89cf7178.js",
+    "main.js": "/static/js/main.5efe831c.js",
     "static/media/duchy 2.jpg": "/static/media/duchy 2.3bb8ee297d1dc5b71b08.jpg",
-    "static/media/duch1.jpg": "/static/media/duch1.10ea13f81e929f5ffdf3.jpg",
     "static/media/edit szach.jpg": "/static/media/edit szach.b5ef10981d2cfe4b66f5.jpg",
-    "static/media/rzepiara.jpg": "/static/media/rzepiara.e25bb119f3767b9ce7c4.jpg",
     "static/media/joker2.jpg": "/static/media/joker2.1113f126f11cae0f83b9.jpg",
     "static/media/kosmo1.jpg": "/static/media/kosmo1.772afd7673b50b9c3d01.jpg",
     "static/media/st.jpg": "/static/media/st.3f2464842a94561bc131.jpg",
-    "static/media/portal.jpg": "/static/media/portal.4f89a75c8c05977635aa.jpg",
     "static/media/jesien.jpg": "/static/media/jesien.f1012bac418c1a276b3a.jpg",
     "static/media/profil.jpg": "/static/media/profil.042556c37a98f0edf287.jpg",
     "static/media/dark1.jpg": "/static/media/dark1.f005cfff1ec384bc829c.jpg",
-    "static/media/minecraft1.jpg": "/static/media/minecraft1.2228a89eb56843a1af82.jpg",
-    "static/media/joker.jpg": "/static/media/joker.227d937db7ffa1e29efe.jpg",
+    "static/media/edit motyle.jpg": "/static/media/edit motyle.432df1742c7d381905c7.jpg",
+    "static/media/edit wonka.jpg": "/static/media/edit wonka.07dea805c34c295eef5e.jpg",
     "static/media/logo.png": "/static/media/logo.44193ab7d62e171bc09d.png",
+    "static/media/edit spider.jpg": "/static/media/edit spider.98d84e5b22c26ba6d206.jpg",
+    "static/media/edit mando.jpg": "/static/media/edit mando.37ce423072c99bd68cdd.jpg",
+    "static/media/edit piwnica.jpg": "/static/media/edit piwnica.9692d44ed347c1650377.jpg",
     "static/media/ai.png": "/static/media/ai.eab18ce018c346c94bc3.png",
     "static/media/ae.png": "/static/media/ae.c3c45b5482543b0d44b2.png",
     "static/media/ps.png": "/static/media/ps.52f8faba600413c0b661.png",
@@ -22,9 +22,9 @@
     "static/media/pr.png": "/static/media/pr.51f043e9a3f8941ca5f3.png",
     "static/media/lr.png": "/static/media/lr.383ed985b2accd66082a.png",
     "index.html": "/index.html",
-    "main.89cf7178.js.map": "/static/js/main.89cf7178.js.map"
+    "main.5efe831c.js.map": "/static/js/main.5efe831c.js.map"
   },
   "entrypoints": [
-    "static/js/main.89cf7178.js"
+    "static/js/main.5efe831c.js"
   ]
 }
