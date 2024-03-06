@@ -7,17 +7,18 @@ import ItemGrid from 'components/ItemGrid';
 import Modal from 'components/Modal';
 
 import st from 'res/edit/st.jpg';
-import portal from 'res/edit/portal.jpg';
-import joker from 'res/edit/joker.jpg';
+import portal from 'res/edit/edit spider.jpg';
+import joker from 'res/edit/edit motyle.jpg';
 import dark from 'res/edit/dark1.jpg';
 import joker2 from 'res/edit/joker2.jpg';
-import rzepiara from 'res/edit/rzepiara.jpg';
+import rzepiara from 'res/edit/edit mando.jpg';
 import jesien from 'res/edit/jesien.jpg';
-import minecraft from 'res/edit/minecraft1.jpg';
-import duch1 from 'res/edit/duch1.jpg';
+import minecraft from 'res/edit/edit wonka.jpg';
+import duch1 from 'res/edit/edit piwnica.jpg';
 import duch2 from 'res/edit/duchy 2.jpg';
 import szach from 'res/edit/edit szach.jpg';
 import kosmo from 'res/edit/kosmo1.jpg';
+import inpost from 'res/edit/edit inpost';
 
 
 const spin = keyframes`
