@@ -16,8 +16,6 @@ import jesien from 'res/edit/jesien.jpg';
 import wonka from 'res/edit/edit wonka.jpg';
 import piwnica from 'res/edit/edit piwnica.jpg';
 import duch2 from 'res/edit/duchy 2.jpg';
-import szach from 'res/edit/edit szach.jpg';
-import kosmo from 'res/edit/kosmo1.jpg';
 
 
 const spin = keyframes`
