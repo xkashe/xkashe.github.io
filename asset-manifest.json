@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.e9fc2b64.js",
+    "main.js": "/static/js/main.8e3c289f.js",
     "static/media/duchy 2.jpg": "/static/media/duchy 2.3bb8ee297d1dc5b71b08.jpg",
-    "static/media/joker2.jpg": "/static/media/joker2.1113f126f11cae0f83b9.jpg",
     "static/media/kosmo1.jpg": "/static/media/kosmo1.772afd7673b50b9c3d01.jpg",
     "static/media/st.jpg": "/static/media/st.3f2464842a94561bc131.jpg",
     "static/media/jesien.jpg": "/static/media/jesien.f1012bac418c1a276b3a.jpg",
     "static/media/profil.jpg": "/static/media/profil.042556c37a98f0edf287.jpg",
     "static/media/dark1.jpg": "/static/media/dark1.f005cfff1ec384bc829c.jpg",
     "static/media/edit inpost.jpg": "/static/media/edit inpost.07a0b99783a3cf5350b7.jpg",
+    "static/media/joker.jpg": "/static/media/joker.227d937db7ffa1e29efe.jpg",
     "static/media/edit motyle.jpg": "/static/media/edit motyle.432df1742c7d381905c7.jpg",
     "static/media/edit wonka.jpg": "/static/media/edit wonka.07dea805c34c295eef5e.jpg",
     "static/media/logo.png": "/static/media/logo.44193ab7d62e171bc09d.png",
@@ -22,9 +22,9 @@
     "static/media/pr.png": "/static/media/pr.51f043e9a3f8941ca5f3.png",
     "static/media/lr.png": "/static/media/lr.383ed985b2accd66082a.png",
     "index.html": "/index.html",
-    "main.e9fc2b64.js.map": "/static/js/main.e9fc2b64.js.map"
+    "main.8e3c289f.js.map": "/static/js/main.8e3c289f.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9fc2b64.js"
+    "static/js/main.8e3c289f.js"
   ]
 }
