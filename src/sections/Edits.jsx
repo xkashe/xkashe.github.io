@@ -10,7 +10,7 @@ import st from 'res/edit/st.jpg';
 import spider from 'res/edit/edit spider.jpg';
 import motyl from 'res/edit/edit motyle.jpg';
 import dark from 'res/edit/dark1.jpg';
-import joker2 from 'res/edit/joker2.jpg';
+import joker2 from 'res/edit/joker.jpg';
 import mando from 'res/edit/edit mando.jpg';
 import jesien from 'res/edit/jesien.jpg';
 import wonka from 'res/edit/edit wonka.jpg';
