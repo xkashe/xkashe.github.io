@@ -11,9 +11,9 @@ const App = () => (
   <>
     <GlobalStyles />
     <Header />
-    <Videos />
-    <VFX />
     <Edits />
+    <VFX />
+    <Videos />
     <About />
     <Footer />
   </>
