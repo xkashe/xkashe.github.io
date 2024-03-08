@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.8e3c289f.js",
+    "main.js": "/static/js/main.102b6bb3.js",
     "static/media/duchy 2.jpg": "/static/media/duchy 2.3bb8ee297d1dc5b71b08.jpg",
     "static/media/kosmo1.jpg": "/static/media/kosmo1.772afd7673b50b9c3d01.jpg",
     "static/media/st.jpg": "/static/media/st.3f2464842a94561bc131.jpg",
@@ -22,9 +22,9 @@
     "static/media/pr.png": "/static/media/pr.51f043e9a3f8941ca5f3.png",
     "static/media/lr.png": "/static/media/lr.383ed985b2accd66082a.png",
     "index.html": "/index.html",
-    "main.8e3c289f.js.map": "/static/js/main.8e3c289f.js.map"
+    "main.102b6bb3.js.map": "/static/js/main.102b6bb3.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e3c289f.js"
+    "static/js/main.102b6bb3.js"
   ]
 }
