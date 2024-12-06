@@ -93,9 +93,9 @@ const About = () => (
           <CardText>
             Nazywam się <b>Łukasz Jurczyński</b>.
             <br />
-            Jestem absolwentem Montażu Filmowego w Warszawskiej Szkole Filmowej, a obecnie studiuję Dziennikarstwo i Projektowanie komunikacji wizualnej w mediach. 
+            Jestem absolwentem Montażu Filmowego w Warszawskiej Szkole Filmowej, oraz Magistrem Dziennikarstwa i Projektowania komunikacji wizualnej w mediach. 
 . Specjalizuję
-            się w montowaniu filmów przeznaczonych na Youtube oraz obróbką
+            się w montowaniu filmów przeznaczonych na wszelkie platofrmy społecznościowe oraz obróbką
             zdjęć.
           </CardText>
 
