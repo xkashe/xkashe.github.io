@@ -51,7 +51,7 @@ const Header = () => (
     <Subtitle>video editing | photo editing | graphic design</Subtitle>
     <Links>
       <Link
-        href="https://youtube.com/c/xkashe"
+        href="https://www.youtube.com/@1ukaszjurczynski"
         alt="youtube link"
         target="_blank"
         rel="noopener"
